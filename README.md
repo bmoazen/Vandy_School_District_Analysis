@@ -12,9 +12,11 @@ One concern with the data is that the ninth grade reading and math grades for on
 All results can be found in CSV form in the Results folder of this repository
 * District Summary <br />
   The district summary for all students and with the 9th graders of Thomas High School removed schools and all students is shown below:<br />
-  https://github.com/bmoazen/Vandy_School_District_Analysis/blob/main/Results/districtBoth.PNG?raw=true
+  ![alt text](https://github.com/bmoazen/Vandy_School_District_Analysis/blob/main/Results/districtBoth.PNG?raw=true)
+  https://github.com/bmoazen/Vandy_School_District_Analysis/blob/main/Results/districtBoth.PNG?raw=true <br />
+  Since there are only 461 Thomas High School 9th graders out of a total of over 39,000 students in the district, the removal of these scores has very little impact on the scores of the district as a whole.
 
-* Item 2
+* School Summary
 * Item 3
   * Sub Item A
   * Sub Item B

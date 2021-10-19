@@ -30,3 +30,7 @@ All results can be found in CSV form in the Results folder of this repository
 * Thomas High School compared to other schools <br />
   Since the overall Thomas High School scores were not affected much ny the removal of the 9th grade scores, a comparison of the school with that other the other district schools would not be affected either
   
+ * Scores by grade, school spending, size, and school type <br />
+  Again, since the overall numbers were not affected by the removal of the Thomas High School 9th grade scores, analysis of other factors, such as grade, school spending, size, and school type, would not be affected.
+
+  

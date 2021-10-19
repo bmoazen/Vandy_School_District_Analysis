@@ -6,6 +6,11 @@ In this project, we used the pandas library in python to analyze standardized ma
 One concern with the data is that the ninth grade reading and math grades for one high school, Thomas High School, appeared to have been altered.  For this reason, two separate analyses were performed: one with all of the student scores and one in which the scores for Thomas High School ninth graders were removed.
 
 # Contents
+PyCitySchoolClean.ipynb - Python Code looking at the full student data <br />
+PyCitySchool_Challenge.ipynb - Python Code looking which removes the Thomas 9th grade scores and runs the same anlysis as the full styudents data set <br />
+PyCitySchoolCompare.ipynb - Python Code which compares the two analysis <br />
+Resources Folder - contains the school and student data in csv <br />
+Results Folder - contains results from the comparison sanalysis in csv form as well as png images of result dataframes <br />
 
 
 # Results
@@ -16,8 +21,6 @@ All results can be found in CSV form in the Results folder of this repository
   https://github.com/bmoazen/Vandy_School_District_Analysis/blob/main/Results/districtBoth.PNG?raw=true <br />
   Since there are only 461 Thomas High School 9th graders out of a total of over 39,000 students in the district, the removal of these scores has very little impact on the scores of the district as a whole.
 
-* School Summary
+* School Summary <br />
   Since only 9th grade students were removed from the data, only scores relating to Thomas High School would be affected (i.e. there would be no affect on scores from other schools)
-* Item 3
-  * Sub Item A
-  * Sub Item B
+  ![alt text](https://github.com/bmoazen/Vandy_School_District_Analysis/blob/main/Results/thomasBoth.PNG?raw=true)

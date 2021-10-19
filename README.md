@@ -26,3 +26,7 @@ All results can be found in CSV form in the Results folder of this repository
   ![alt text](https://github.com/bmoazen/Vandy_School_District_Analysis/blob/main/Results/thomasBoth.PNG?raw=true)
   https://github.com/bmoazen/Vandy_School_District_Analysis/blob/main/Results/thomasBoth.PNG?raw=true <br />
   Removal of the Thomas High School 9th grade scores did little to affect the overall scores of the school.  This is most likely due to the fact that the 9th grade scores were very similar to the scores for that of the rest of the school.
+  
+  * Thomas High School compared to other schools <br />
+  Since the overall Thomas High School scores were not affected much ny the removal of the 9th grade scores, a comparison of the school with that other the other district schools would not be affected either
+  
